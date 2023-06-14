@@ -1,0 +1,813 @@
+c:\users\tomerbab\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+c:\users\tomerbab\source\repos\Group11\Group11\bin\Debug\Group11.exe
+c:\users\tomerbab\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.exe
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+c:\users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.HomePage.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\tomerbab\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.HomePage.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+S:\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+S:\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+S:\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+S:\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.HomePage.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\omer9\Desktop\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.HomePage.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+S:\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+S:\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+S:\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+S:\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.HomePage.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.cache
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\hadareli\Desktop\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newPurchase.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\hadareli\Desktop\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeesInShift.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeesInShift.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newPurchase.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeesInShift.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newPurchase.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeesInShift.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newPurchase.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\tomerbab\Downloads\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeesInShift.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newPurchase.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.cache
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\omer9\Downloads\source (2)\source (3)\source (2)\source\source\source\source\source\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\ofirgutm\Downloads\group11 project - calculate finish\source\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.cache
+C:\Users\hadareli\Desktop\Group11ThusdayB4Dorons\Group11ThusdayB4Dorons\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\ofirgutm\Desktop\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.cache
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\tomerbab\Downloads\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInOrder.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInOrder.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\ofirgutm\Downloads\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInOrder.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.cache
+C:\Users\omer9\Downloads\Group11GoodEveOmerOfir(2) (1)\Group11GoodMorningFromTomer (1)\Group11FridayOfirTheDebugger\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInOrder.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_PurchasesHistory.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_PurchasesFromSuppliers.resources
+C:\Users\tomerbab\Downloads\Group11MozashVibes\Group11FridayHadarHamalka\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInPurchasesHistory.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.csprojAssemblyReference.cache
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.pdb
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInOrder.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInPurchasesHistory.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_PurchasesFromSuppliers.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_PurchasesHistory.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_updateProduct.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.cache
+C:\Users\omer9\Downloads\Group11SundayOdKtzat\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\bin\Debug\Group11.exe.config
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\bin\Debug\Group11.exe
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\bin\Debug\Group11.pdb
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.csprojResolveAssemblyReference.cache
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.CrudCustomer.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.CrudEmployee.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.CrudProduct.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.CrudSupplier.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_addPayment.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_CalculateOrderPrice.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_chooseEmployeesForShift.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_ChooseFabricForOrder.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_chooseShift.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_createCustomer.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_createEmployee.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_createProduct.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_createSupplier.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_customerLogin.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_CustomerMain.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_customerProfile.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_employeeLogin.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_employeeProfile.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_Main.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_MeetingHours.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_newShiftConstraint.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_NotPaidOrders.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_OrdersHistory.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_productProfile.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_productsForPurchase.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInOrder.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_ProductsInPurchasesHistory.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_PurchasesFromSuppliers.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_PurchasesHistory.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_readCustomer.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_readEmployee.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_readProduct.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_readSupplier.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_ScheduleMeeting.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_ShiftArrangement.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_supplierForPurchase.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_supplierProfile.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_TotalOrderPrice.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_updateCustomer.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_updateEmployee.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_updateProduct.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_updateSupplier.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Form_employeeMain.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.Properties.Resources.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.UserControl_Blank.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.UserControl_Days.resources
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.csproj.GenerateResource.Cache
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.csproj.CoreCompileInputs.cache
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.exe
+C:\Users\hadareli\Desktop\Group11BeforeLast\repos\Group11\Group11\obj\Debug\Group11.pdb

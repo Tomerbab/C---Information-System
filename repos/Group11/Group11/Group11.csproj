@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A75054E6-B99F-4DA7-918F-46BF429EAA69}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Group11</RootNamespace>
+    <AssemblyName>Group11</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookContainer.cs" />
+    <Compile Include="Color.cs" />
+    <Compile Include="CrudCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrudCustomer.Designer.cs">
+      <DependentUpon>CrudCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrudEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrudEmployee.Designer.cs">
+      <DependentUpon>CrudEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrudProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrudProduct.designer.cs">
+      <DependentUpon>CrudProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrudSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrudSupplier.Designer.cs">
+      <DependentUpon>CrudSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnumHelper.cs" />
+    <Compile Include="Form_addPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_addPayment.Designer.cs">
+      <DependentUpon>Form_addPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CalculateOrderPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CalculateOrderPrice.Designer.cs">
+      <DependentUpon>Form_CalculateOrderPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_chooseEmployeesForShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_chooseEmployeesForShift.Designer.cs">
+      <DependentUpon>Form_chooseEmployeesForShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ChooseFabricForOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ChooseFabricForOrder.Designer.cs">
+      <DependentUpon>Form_ChooseFabricForOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_chooseShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_chooseShift.Designer.cs">
+      <DependentUpon>Form_chooseShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_createCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_createCustomer.Designer.cs">
+      <DependentUpon>Form_createCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_createEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_createEmployee.Designer.cs">
+      <DependentUpon>Form_createEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_createProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_createProduct.designer.cs">
+      <DependentUpon>Form_createProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_createSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_createSupplier.Designer.cs">
+      <DependentUpon>Form_createSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_customerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_customerLogin.Designer.cs">
+      <DependentUpon>Form_customerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CustomerMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CustomerMain.designer.cs">
+      <DependentUpon>Form_CustomerMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_customerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_customerProfile.Designer.cs">
+      <DependentUpon>Form_customerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_employeeLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_employeeLogin.Designer.cs">
+      <DependentUpon>Form_employeeLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_employeeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_employeeProfile.Designer.cs">
+      <DependentUpon>Form_employeeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Main.Designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MeetingHours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MeetingHours.designer.cs">
+      <DependentUpon>Form_MeetingHours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_newShiftConstraint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_newShiftConstraint.Designer.cs">
+      <DependentUpon>Form_newShiftConstraint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_NotPaidOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_NotPaidOrders.designer.cs">
+      <DependentUpon>Form_NotPaidOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_OrdersHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_OrdersHistory.Designer.cs">
+      <DependentUpon>Form_OrdersHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_productProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_productProfile.designer.cs">
+      <DependentUpon>Form_productProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_productsForPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_productsForPurchase.designer.cs">
+      <DependentUpon>Form_productsForPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ProductsInOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ProductsInOrder.Designer.cs">
+      <DependentUpon>Form_ProductsInOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ProductsInPurchasesHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ProductsInPurchasesHistory.Designer.cs">
+      <DependentUpon>Form_ProductsInPurchasesHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PurchasesFromSuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PurchasesFromSuppliers.Designer.cs">
+      <DependentUpon>Form_PurchasesFromSuppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_PurchasesHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_PurchasesHistory.Designer.cs">
+      <DependentUpon>Form_PurchasesHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_readCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_readCustomer.Designer.cs">
+      <DependentUpon>Form_readCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_readEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_readEmployee.Designer.cs">
+      <DependentUpon>Form_readEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_readProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_readProduct.designer.cs">
+      <DependentUpon>Form_readProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_readSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_readSupplier.Designer.cs">
+      <DependentUpon>Form_readSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ScheduleMeeting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ScheduleMeeting.designer.cs">
+      <DependentUpon>Form_ScheduleMeeting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ShiftArrangement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ShiftArrangement.Designer.cs">
+      <DependentUpon>Form_ShiftArrangement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_supplierForPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_supplierForPurchase.designer.cs">
+      <DependentUpon>Form_supplierForPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_supplierProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_supplierProfile.Designer.cs">
+      <DependentUpon>Form_supplierProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TotalOrderPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TotalOrderPrice.Designer.cs">
+      <DependentUpon>Form_TotalOrderPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_updateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_updateCustomer.Designer.cs">
+      <DependentUpon>Form_updateCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_updateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_updateEmployee.Designer.cs">
+      <DependentUpon>Form_updateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_updateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_updateProduct.designer.cs">
+      <DependentUpon>Form_updateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_updateSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_updateSupplier.Designer.cs">
+      <DependentUpon>Form_updateSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Meeting.cs" />
+    <Compile Include="MeetingForOrders.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="OrderStatus.cs" />
+    <Compile Include="Payment.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="ProductCategory.cs" />
+    <Compile Include="ProductsInOrders.cs" />
+    <Compile Include="ProductsInPurchase.cs" />
+    <Compile Include="Purchase.cs" />
+    <Compile Include="SAD_11DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_11DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Shift.cs" />
+    <Compile Include="ShiftConstraint.cs" />
+    <Compile Include="ShiftType.cs" />
+    <Compile Include="Supplier.cs" />
+    <Compile Include="Type.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="SQL_CON.cs" />
+    <Compile Include="Form_employeeMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_employeeMain.Designer.cs">
+      <DependentUpon>Form_employeeMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SAD_11DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_11DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Blank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Blank.designer.cs">
+      <DependentUpon>UserControl_Blank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Days.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Days.designer.cs">
+      <DependentUpon>UserControl_Days.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CrudCustomer.resx">
+      <DependentUpon>CrudCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrudEmployee.resx">
+      <DependentUpon>CrudEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrudProduct.resx">
+      <DependentUpon>CrudProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrudSupplier.resx">
+      <DependentUpon>CrudSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_addPayment.resx">
+      <DependentUpon>Form_addPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CalculateOrderPrice.resx">
+      <DependentUpon>Form_CalculateOrderPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_chooseEmployeesForShift.resx">
+      <DependentUpon>Form_chooseEmployeesForShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ChooseFabricForOrder.resx">
+      <DependentUpon>Form_ChooseFabricForOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_chooseShift.resx">
+      <DependentUpon>Form_chooseShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_createCustomer.resx">
+      <DependentUpon>Form_createCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_createEmployee.resx">
+      <DependentUpon>Form_createEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_createProduct.resx">
+      <DependentUpon>Form_createProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_createSupplier.resx">
+      <DependentUpon>Form_createSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_customerLogin.resx">
+      <DependentUpon>Form_customerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CustomerMain.resx">
+      <DependentUpon>Form_CustomerMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_customerProfile.resx">
+      <DependentUpon>Form_customerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_employeeLogin.resx">
+      <DependentUpon>Form_employeeLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_employeeProfile.resx">
+      <DependentUpon>Form_employeeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MeetingHours.resx">
+      <DependentUpon>Form_MeetingHours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_newShiftConstraint.resx">
+      <DependentUpon>Form_newShiftConstraint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_NotPaidOrders.resx">
+      <DependentUpon>Form_NotPaidOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_OrdersHistory.resx">
+      <DependentUpon>Form_OrdersHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_productProfile.resx">
+      <DependentUpon>Form_productProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_productsForPurchase.resx">
+      <DependentUpon>Form_productsForPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ProductsInOrder.resx">
+      <DependentUpon>Form_ProductsInOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ProductsInPurchasesHistory.resx">
+      <DependentUpon>Form_ProductsInPurchasesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PurchasesFromSuppliers.resx">
+      <DependentUpon>Form_PurchasesFromSuppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_PurchasesHistory.resx">
+      <DependentUpon>Form_PurchasesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_readCustomer.resx">
+      <DependentUpon>Form_readCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_readEmployee.resx">
+      <DependentUpon>Form_readEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_readProduct.resx">
+      <DependentUpon>Form_readProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_readSupplier.resx">
+      <DependentUpon>Form_readSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ScheduleMeeting.resx">
+      <DependentUpon>Form_ScheduleMeeting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ShiftArrangement.resx">
+      <DependentUpon>Form_ShiftArrangement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_supplierForPurchase.resx">
+      <DependentUpon>Form_supplierForPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_supplierProfile.resx">
+      <DependentUpon>Form_supplierProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TotalOrderPrice.resx">
+      <DependentUpon>Form_TotalOrderPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_updateCustomer.resx">
+      <DependentUpon>Form_updateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_updateEmployee.resx">
+      <DependentUpon>Form_updateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_updateProduct.resx">
+      <DependentUpon>Form_updateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_updateSupplier.resx">
+      <DependentUpon>Form_updateSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_employeeMain.resx">
+      <DependentUpon>Form_employeeMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserControl_Blank.resx">
+      <DependentUpon>UserControl_Blank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Days.resx">
+      <DependentUpon>UserControl_Days.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SAD_11DataSet.xsc">
+      <DependentUpon>SAD_11DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_11DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_11DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_11DataSet.xss">
+      <DependentUpon>SAD_11DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_11DataSet1.xsc">
+      <DependentUpon>SAD_11DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_11DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_11DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_11DataSet1.xss">
+      <DependentUpon>SAD_11DataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
