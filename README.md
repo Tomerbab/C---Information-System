@@ -9,4 +9,6 @@ The employee home page form offers the following options :
 The customer home page form offers the following options :
 1. Schedule a meeting with the company manager. The customer will choose a date from a calendar that is shown to him and then he can choose an hour for the meeting from the hours offerd to him and a place where the meeting will take place. At the end of the process, he will be sent an email with the details of the meeting.
 2. Watch orders history. The customer can view his order history and all the products details included in the order.
-3. Add a payment. The customer will be able to make a payment for an unpaid order. The system will display the customer unpaid orders and he will be able to select an order, enter credit card information and pay for it. At the end of the payment he will receive an email with the payment details
+3. Add a payment. The customer will be able to make a payment for an unpaid order. The system will display the customer unpaid orders and he will be able to select an order, enter credit card information and pay for it. At the end of the payment he will receive an email with the payment details.
+
+By using stored procedure, any operation that is performed in the system that creates a record or updates an existing record is updated in the SQL server.
