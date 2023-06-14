@@ -1,5 +1,6 @@
 In this Project i created an information system for a curtains company, conneting to a data base in MySql Server with fictitious data.
 The information system offers two mains forms (which are used as the home screen)- one for an employee using the system and one for a customer.
+
 The employee home page form offers the following options :
 1. Read, create and update data about - customers, suppliers, products and employees.
 2. Create a purchase of products for the company stock. A process where the employee selects several products and there quantities and orders them from the supplier. At the end of the process, an email will be sent to the supplier.
